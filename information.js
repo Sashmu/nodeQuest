@@ -1,7 +1,7 @@
 let aboutMe =
 {
    name: "Sasmitha Nagesh",
-   campus: "Remote Campus"
+   campus: "Remote"
 }
 
 
